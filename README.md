@@ -4,12 +4,15 @@ Worked on the Electrical and Mechanical Design of a quadruped robot.
 Programmed the Arduino to test the working of gait in open loop configurations.
 
 # Demo Video
-[Robot Dog](https://www.youtube.com/watch?v=NX_BM-pFnvo&ab_channel=ChetasPattir)  
+## [YouTube Video](https://www.youtube.com/watch?v=NX_BM-pFnvo&ab_channel=ChetasPattir)  
 
+## Block Diagram
 ![Block Diagram](https://github.com/Eclec1r0n/robot-dog-2020/blob/main/Images/Block-Diagram.png)  
 
+## Circuit Diagram
 ![Circuit Diagram](https://github.com/Eclec1r0n/robot-dog-2020/blob/main/Images/Circuit.png)
 
+## Robot Dog
 ![Robot Dog Diagram](https://github.com/Eclec1r0n/robot-dog-2020/blob/main/Images/Robot-Dog.png)
 
 # Detailed Report
