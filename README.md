@@ -6,11 +6,11 @@ Programmed the Arduino to test the working of gait in open loop configurations.
 # Demo Video
 [Robot Dog](https://www.youtube.com/watch?v=NX_BM-pFnvo&ab_channel=ChetasPattir)  
 
-[!Block Diagram](https://github.com/Eclec1r0n/robot-dog-2020/blob/main/Images/Block-Diagram.png)  
+![Block Diagram](https://github.com/Eclec1r0n/robot-dog-2020/blob/main/Images/Block-Diagram.png)  
 
-[!Circuit Diagram](https://github.com/Eclec1r0n/robot-dog-2020/blob/main/Images/Circuit.png)
+![Circuit Diagram](https://github.com/Eclec1r0n/robot-dog-2020/blob/main/Images/Circuit.png)
 
-[!Robot Dog Diagram](https://github.com/Eclec1r0n/robot-dog-2020/blob/main/Images/Robot-Dog.png)
+![Robot Dog Diagram](https://github.com/Eclec1r0n/robot-dog-2020/blob/main/Images/Robot-Dog.png)
 
 # Detailed Report
 ## Introduction
