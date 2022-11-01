@@ -3,7 +3,7 @@
 Worked on the Electrical and Mechanical Design of a quadruped robot.  
 Programmed the Arduino to test the working of gait in open loop configurations.
 
-# Demo Video
+# Diagrams & Demonstration
 ## [YouTube Video](https://www.youtube.com/watch?v=NX_BM-pFnvo&ab_channel=ChetasPattir)  
 
 ## Block Diagram
